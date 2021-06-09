@@ -1,5 +1,6 @@
 # FlightTicketSystem
 AIM:
+
 In this experiment, you are expected to develop a flight search engine (such as skyscanner
 (www.skayscanner.com/) or e-dream (www.edreams.com/)) that enables users to make flight plans. The
 flight database will be provided via two input files. Your program should read these input files and create a
@@ -8,6 +9,7 @@ to information given two input files. In this section, details will be given abo
 and the output file to be created.
 
 COMMANDS:
+
 List All
 
 List all command is used for listing all the possible flight plan(s) from departure point to the arrival point.
